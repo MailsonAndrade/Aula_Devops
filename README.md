@@ -6,6 +6,7 @@
 
 ### 🔹 Inicialização do Repositório
 # Para começar, inicialize o Git no seu projeto:
+# ..............................................
 
 
 
